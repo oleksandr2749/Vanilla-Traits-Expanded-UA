@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VTE.HasDestroyedItem>{PAWN_nameDef} знищив щойно виготовлений {PAWN_pronon} через недостатню якість</VTE.HasDestroyedItem>
+  <VTE.GotBruise>{PAWN_nameDef} отримав синяк через свою незграбність незграбним</VTE.GotBruise>
+  <VTE.CantBeWokenUpHeavySleeper>{PAWN_nameDef} занадто крепко спить, для того щоб прокинутись</VTE.CantBeWokenUpHeavySleeper>
+  <VTE.DecisesInterruptCurrentCostructionJob>{PAWN_nameDef} {0_gender ? відмовився: відмовилась} від {0} через те, що я перфекціоніст</VTE.DecisesInterruptCurrentCostructionJob>
+  <VTE.CavaranSpeedIsDoubledWanderlusts>Персонажі мандрівники рухатимуть в подорожі швидше</VTE.CavaranSpeedIsDoubledWanderlusts>
+  <VTE.KleptomaniacStealsItemFrom>{PAWN_nameDef} {0_gender ? вкрав: викрала} щось, що належить іншій фракції. Це може зашкодити взаємним відносинам</VTE.KleptomaniacStealsItemFrom>
+  <VTE.KleptomaniacFailedToStealItemFrom>{PAWN_nameDef} спіймали на спробі вкрасти щось, що належить іншій фракції. Це може зашкодити взаємним відносинам</VTE.KleptomaniacFailedToStealItemFrom>
+  <VTE.PawnBreaksChairs>{PAWN_nameDef} пошкодив {0} через їх вагу чи дивну позу</VTE.PawnBreaksChairs>
+  <VTE.PawnStoleItem>{PAWN_nameDef} вкрав {0} у {VICTIM_nameDef}</VTE.PawnStoleItem>
+  <VTE.PawnFailedToStealItem>{PAWN_nameDef} не вдалося вкрасти {0} у {VICTIM_nameDef}. Це розлютило фракцію {VICTIM_nameDef}</VTE.PawnFailedToStealItem>
+  <VTE.PawnCowardlyFlees>{PAWN_nameDef} втікає з бою через те, що {0_gender ? він боягуз: вона боягузка}</VTE.PawnCowardlyFlees>
+  <VTE.PawnCowardlyExitMapHostile>{PAWN_nameDef} втікає з бою через те, що {0_gender ? він боягуз: вона боягузка}</VTE.PawnCowardlyExitMapHostile>
+  <VTE.PawnCowardlyExitMapAlly>{PAWN_nameDef} втікає з бою через те, що {0_gender ? він боягуз: вона боягузка}</VTE.PawnCowardlyExitMapAlly>
+  <VTE.PawnCowardlyExitMapNeutral>{PAWN_nameDef} втікає з бою через те, що {0_gender ? він боягуз: вона боягузка}</VTE.PawnCowardlyExitMapNeutral>
+  <VTE.PawnStopsForcedJob>{PAWN_nameDef} проігнорував або забув їхні накази і тимчасово припинив роботу</VTE.PawnStopsForcedJob>
+  <VTE.VictimDropsEquipmentMartialArtist>{PAWN_nameDef} роззброїла {VICTIM_nameDef} у ближньому бою</VTE.VictimDropsEquipmentMartialArtist>
+
+</LanguageData>

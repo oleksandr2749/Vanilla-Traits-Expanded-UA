@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VTE_SlowWorkSpeed.label>повільна робота</VTE_SlowWorkSpeed.label>
+  <VTE_SlowWorkSpeed.description>повільна робота</VTE_SlowWorkSpeed.description>
+  <VTE_SlowWorkSpeed.labelNoun>повільна робота</VTE_SlowWorkSpeed.labelNoun>
+
+  <VTE_RestSlowFallFactor.label>безсоння</VTE_RestSlowFallFactor.label>
+  <VTE_RestSlowFallFactor.description>Яскраво виражений психічна або фізична тривога викликає безсоння, людина часто відчуває себе виснаженою, але не здатна заснути.</VTE_RestSlowFallFactor.description>
+  <VTE_RestSlowFallFactor.labelNoun>безсоння</VTE_RestSlowFallFactor.labelNoun>
+
+  <VTE_SlowerBleedingRate.label>гіперкоагуляція</VTE_SlowerBleedingRate.label>
+  <VTE_SlowerBleedingRate.description>Підвищена кількість еритроцитів означає, що відбувається гіперкоагуляція, внаслідок чого рани кровоточать слабше.</VTE_SlowerBleedingRate.description>
+  <VTE_SlowerBleedingRate.labelNoun>гіперкоагуляція</VTE_SlowerBleedingRate.labelNoun>
+
+  <VTE_HigherBleedingRate.label>гемофілія</VTE_HigherBleedingRate.label>
+  <VTE_HigherBleedingRate.description>Гемофілія - це нездатність крові згортатися належним чином, через що рани кровоточать набагато сильніше.</VTE_HigherBleedingRate.description>
+  <VTE_HigherBleedingRate.labelNoun>гіперкоагуляція</VTE_HigherBleedingRate.labelNoun>
+
+
+</LanguageData>

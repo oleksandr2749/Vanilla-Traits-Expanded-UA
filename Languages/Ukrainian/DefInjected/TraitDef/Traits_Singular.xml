@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VTE_AbsentMinded.degreeDatas.0.label>розсіяність</VTE_AbsentMinded.degreeDatas.0.label>
+  <VTE_AbsentMinded.degreeDatas.0.description>{PAWN_nameDef} схильний час від часу дозволяти своїм думкам відволіктися, навіть посеред роботи.</VTE_AbsentMinded.degreeDatas.0.description>
+
+  <VTE_Eccentric.degreeDatas.0.label>ексцентричність</VTE_Eccentric.degreeDatas.0.label>
+  <VTE_Eccentric.degreeDatas.0.description>{PAWN_nameDef} має один або два гвинти, що є невеликою компенсацією  природньому нахилу..</VTE_Eccentric.degreeDatas.0.description>
+
+  <VTE_Perfectionist.degreeDatas.0.label>перфекціонізм</VTE_Perfectionist.degreeDatas.0.label>
+  <VTE_Perfectionist.degreeDatas.0.description>{PAWN_nameDef} прагне досконалості в своїй роботі {PAWN_possessive}. {PAWN_pronoun} буде робити предмети кращої якості жертвуючи час. Однак, якщо створить пердмет низької якості це засмутить {0_gender ? його: її}. Крім того, {PAWN_pronoun} дуже рідко кидає роботу на півшляху, навіть якщо вона йде не втішно.</VTE_Perfectionist.degreeDatas.0.description>
+
+  <VTE_Coward.degreeDatas.0.label>боягузливість</VTE_Coward.degreeDatas.0.label>
+  <VTE_Coward.degreeDatas.0.description>Хоча {PAWN_nameDef} цілком {0_gender ? здатний: здатна} до насильства, {0_gender ? його: її} інстинкт бий або біжі сильно схиляється до біжи.</VTE_Coward.degreeDatas.0.description>
+
+  <VTE_Brave.degreeDatas.0.label>хоробрість</VTE_Brave.degreeDatas.0.label>
+  <VTE_Brave.degreeDatas.0.description>{PAWN_nameDef} має вищу психічну та фізичну стійкість порівняно з більшістю, {PAWN_pronoun} може легше адаптуватися в цьому суворому світі</VTE_Brave.degreeDatas.0.description>
+
+  <VTE_Clumsy.degreeDatas.0.label>незграбність</VTE_Clumsy.degreeDatas.0.label>
+  <VTE_Clumsy.degreeDatas.0.description>Невеликі синці та подряпини не страшні {PAWN_nameDef} надто {0_gender ? звик: звикла}, здебільшого через часті спотикання та падіння.</VTE_Clumsy.degreeDatas.0.description>
+
+  <VTE_HeatInclined.degreeDatas.0.label>жаростійкість</VTE_HeatInclined.degreeDatas.0.label>
+  <VTE_HeatInclined.degreeDatas.0.description>{PAWN_nameDef} любить яскравість і тепло літнього дня. {PAWN_pronoun} також не страждає від праці або сну в спеку.</VTE_HeatInclined.degreeDatas.0.description>
+
+  <VTE_ColdInclined.degreeDatas.0.label>морозостійкість</VTE_ColdInclined.degreeDatas.0.label>
+  <VTE_ColdInclined.degreeDatas.0.description>{PAWN_nameDef} любить похмурість і холод зимової ночі. {PAWN_pronoun} також не страждає від праці або сну в мороз.</VTE_ColdInclined.degreeDatas.0.description>
+
+  <VTE_HeavySleeper.degreeDatas.0.label>міцний сон</VTE_HeavySleeper.degreeDatas.0.label>
+  <VTE_HeavySleeper.degreeDatas.0.description>Можна посадити космічний лінкор на дах {0_gender ? його: її} будинку, та навіть це не змусить {0_gender ? його: її} прокинутись. {PAWN_pronoun} також не зважатиме на будь-яку загрозу під час сну.</VTE_HeavySleeper.degreeDatas.0.description>
+
+  <VTE_Neat.degreeDatas.0.label>охайність</VTE_Neat.degreeDatas.0.label>
+  <VTE_Neat.degreeDatas.0.description>{PAWN_nameDef} найбільше цінує чистоту та порядок, тому не буде розкидати сміття де попало. Отримує задоволення під час прибирання.</VTE_Neat.degreeDatas.0.description>
+
+  <VTE_Slob.degreeDatas.0.label>неохайність</VTE_Slob.degreeDatas.0.label>
+  <VTE_Slob.degreeDatas.0.description>{PAWN_nameDef} навіть не помічає шар пилюки з палець, чи купу сміття на підлозі, а тому залишає його там де буде зрічно. Принаймні, не надто переймається безладом.</VTE_Slob.degreeDatas.0.description>
+
+  <VTE_Workaholic.degreeDatas.0.label>трудоголізм</VTE_Workaholic.degreeDatas.0.label>
+  <VTE_Workaholic.degreeDatas.0.description>{PAWN_nameDef} має проблеми з перервами чи відпочинком від роботи. {PAWN_pronoun}  продовжуватиме працювати, навіть жертвуючи здоров'ям чи сном.</VTE_Workaholic.degreeDatas.0.description>
+
+  <VTE_IronStomach.degreeDatas.0.label>залізний шлунок</VTE_IronStomach.degreeDatas.0.label>
+  <VTE_IronStomach.degreeDatas.0.description>{PAWN_nameDef} ніколи в житті не нудило. Блювота або харчове отруєння чужі для {PAWN_objective}.</VTE_IronStomach.degreeDatas.0.description>
+
+  <VTE_AnimalLover.degreeDatas.0.label>любов до тварин</VTE_AnimalLover.degreeDatas.0.label>
+  <VTE_AnimalLover.degreeDatas.0.description>{PAWN_nameDef} не терпить жорстокого поводження з тваринами. {PAWN_pronoun}  почуватиметься щасливіше, коли до {0_gender ? нього: неї} притиратиметься або коли {PAWN_pronoun} буде господарем тварини. Нізащо не буде працювати м'ясниками.</VTE_AnimalLover.degreeDatas.0.description>
+
+  <VTE_AnimalHater.degreeDatas.0.label>живодер</VTE_AnimalHater.degreeDatas.0.label>
+  <VTE_AnimalHater.degreeDatas.0.description>{PAWN_nameDef} глибоко вірить у людську зверхність над тваринами. Їх вбивство принесе {0_gender ? йому: їй} задоволення, а втрата колонією тварини - це, на {0_gender ? його: її} думку, вишенька на торті.</VTE_AnimalHater.degreeDatas.0.description>
+
+  <VTE_BigBoned.degreeDatas.0.label>важка хода</VTE_BigBoned.degreeDatas.0.label>
+  <VTE_BigBoned.degreeDatas.0.description>Чи то через те, що {PAWN_pronoun} трохи {0_gender ? громіздкий: громіздка}, чи то через те, що дивно дивно ходить, {PAWN_nameDef} може зламати кілька речей лише пройшовшись по коридору.</VTE_BigBoned.degreeDatas.0.description>
+
+  <VTE_Rebel.degreeDatas.0.label>бунтарство</VTE_Rebel.degreeDatas.0.label>
+  <VTE_Rebel.degreeDatas.0.description>{PAWN_nameDef} грає лише за власними правилами, закочує очі та невдоволено працює лише під примусом.</VTE_Rebel.degreeDatas.0.description>
+
+  <VTE_Submissive.degreeDatas.0.label>покірливість</VTE_Submissive.degreeDatas.0.label>
+  <VTE_Submissive.degreeDatas.0.description>{PAWN_nameDef} потребує чітких інструкцій про те, як і коли робити певні речі, і працюватиме з нормальною швидкістю лише тоді, коли його змушуватимуть щось робити.</VTE_Submissive.degreeDatas.0.description>
+
+  <VTE_Vengeful.degreeDatas.0.label>мстивість</VTE_Vengeful.degreeDatas.0.label>
+  <VTE_Vengeful.degreeDatas.0.description>{PAWN_nameDef} не стерпить життя в одному світі зі своїми суперниками, буде радіти звістці про те, що життя воргів обірвалося.</VTE_Vengeful.degreeDatas.0.description>
+
+  <VTE_Technophobe.degreeDatas.0.label>технофобія</VTE_Technophobe.degreeDatas.0.label>
+  <VTE_Technophobe.degreeDatas.0.description>Чи то від травм минулого, чи то від страху, {PAWN_nameDef} виявляє сильну упередженність, що до механічких приладів. {PAWN_pronoun} навідріз відмовляється навіть чути про них, через що має дуже низькі знання про прилади, навіть менше чим звичайна шестирічна дитина. Вбивство механоїдів приносить {0_gender ? йому: їй} сильну радість.</VTE_Technophobe.degreeDatas.0.description>
+
+  <VTE_FunLoving.degreeDatas.0.label>веселість</VTE_FunLoving.degreeDatas.0.label>
+  <VTE_FunLoving.degreeDatas.0.description>{PAWN_nameDef} любить згадати хороші часи, а тому вечірка запам'ятається йому в рази довше, чим інших.</VTE_FunLoving.degreeDatas.0.description>
+
+  <VTE_Dunce.degreeDatas.0.label>тупість</VTE_Dunce.degreeDatas.0.label>
+  <VTE_Dunce.degreeDatas.0.description>{PAWN_nameDef}, здається, взагалі не зрозуміло чим думає, якщо думає взагалі. Хоча {PAWN_nameDef} повільно вчиться і з {0_gender ? ним: нею} складно розмовляти, тупиці, як правило, набагато щасливіші від природи.</VTE_Dunce.degreeDatas.0.description>
+
+  <VTE_MartialArtist.degreeDatas.0.label>майстерність бойових мистецтв</VTE_MartialArtist.degreeDatas.0.label>
+  <VTE_MartialArtist.degreeDatas.0.description>{PAWN_nameDef} дуже довго тренувався, щоб освоїти не просту техніку обеззброєння супротивників.</VTE_MartialArtist.degreeDatas.0.description>
+
+  <VTE_Snob.degreeDatas.0.label>вискочка</VTE_Snob.degreeDatas.0.label>
+  <VTE_Snob.degreeDatas.0.description>{PAWN_nameDef} вважає, що {0_gender ? його: її} місце у вищіх слояї суспільства, і {PAWN_pronoun} ніщо та не любить, як показово критикувати мистецтво та спілкуватися з королівськими особами.</VTE_Snob.degreeDatas.0.description>
+
+  <VTE_Squeamish.degreeDatas.0.label>бридливість</VTE_Squeamish.degreeDatas.0.label>
+  <VTE_Squeamish.degreeDatas.0.description>{PAWN_nameDef} не переносить вид крові чи гниючих трупів, від чого {0_gender ? йому: їй} стає зле, а врешті-решт починає блювати.</VTE_Squeamish.degreeDatas.0.description>
+
+  <VTE_Anxious.degreeDatas.0.label>схвильованість</VTE_Anxious.degreeDatas.0.label>
+  <VTE_Anxious.degreeDatas.0.description>{PAWN_nameDef} відчуває постійну тривогу, а особливо від соціальних заходів та навіть звичайного спілкування. {PAWN_pronoun} жавжди намагатиметься уникнути свята, зібрання, церемонії аби побути на самоті.</VTE_Anxious.degreeDatas.0.description>
+
+  <VTE_Insatiable.degreeDatas.0.label>любовна ненаситність</VTE_Insatiable.degreeDatas.0.label>
+  <VTE_Insatiable.degreeDatas.0.description>Для {PAWN_nameDef} недостатньо звичайної любові, щоб кохати {PAWN_pronoun} . {PAWN_pronoun}  буде часто бігати від партнера до партнера при цьому зраджуючи їм обом з ще одним партнером.</VTE_Insatiable.degreeDatas.0.description>
+
+  <VTE_Prude.degreeDatas.0.label>ханжа</VTE_Prude.degreeDatas.0.label>
+  <VTE_Prude.degreeDatas.0.description>{PAWN_nameDef} повністю {0_gender ? вірний: вірна} свойому партнеру і більше нікому іншому. Носіння більш відвертого одягу, ніж у інших, псуватиме настрій.</VTE_Prude.degreeDatas.0.description>
+
+  <VTE_CouchPotato.degreeDatas.0.label>лінивість</VTE_CouchPotato.degreeDatas.0.label>
+  <VTE_CouchPotato.degreeDatas.0.description>{PAWN_nameDef} зовсім не любить працювати, натомість любить цілий день валятися на дивані та дивитися телик. Нічого не робити приносить {0_gender ? йому: їй} задоволення.</VTE_CouchPotato.degreeDatas.0.description>
+
+  <VTE_CatPerson.degreeDatas.0.label>прихильник котів</VTE_CatPerson.degreeDatas.0.label>
+  <VTE_CatPerson.degreeDatas.0.description>{PAWN_nameDef} обожнює котів, але не любить собак.</VTE_CatPerson.degreeDatas.0.description>
+
+  <VTE_DogPerson.degreeDatas.0.label>прихильник собак</VTE_DogPerson.degreeDatas.0.label>
+  <VTE_DogPerson.degreeDatas.0.description>{PAWN_nameDef} обожнює собак, але не любить котів.</VTE_DogPerson.degreeDatas.0.description>
+
+  <VTE_Prodigy.degreeDatas.0.label>вундеркінд</VTE_Prodigy.degreeDatas.0.label>
+  <VTE_Prodigy.degreeDatas.0.description>{PAWN_nameDef} дійсно {0_gender ? розумник: розумниця} від природи. {PAWN_pronoun} обожнює працювати в лабораторії, проводячи дослідження значно швидше, але не маючи лабораторії {PAWN_pronoun} буде дуже {0_gender ? незадоволеним: незадоволеною}.</VTE_Prodigy.degreeDatas.0.description>
+
+  <VTE_Menagerist.degreeDatas.0.label>звіринець</VTE_Menagerist.degreeDatas.0.label>
+  <VTE_Menagerist.degreeDatas.0.description>{PAWN_nameDef} вважає, що тварини є невід'ємною частиною в житті людини - від домашнього улюбленця до джерела їжі. Любить мати якомога більше тварин і особливо добре вміє їх приручати та тренувати.</VTE_Menagerist.degreeDatas.0.description>
+
+  <VTE_ChildOfSea.degreeDatas.0.label>любов до океану</VTE_ChildOfSea.degreeDatas.0.label>
+  <VTE_ChildOfSea.degreeDatas.0.description>Море кличе {PAWN_nameDef}. {PAWN_pronoun}  відчуває себе щасливішим, просто перебуваючи поблизу океану або глибокої річки.</VTE_ChildOfSea.degreeDatas.0.description>
+
+  <VTE_ChildOfMountain.degreeDatas.0.label>любов до гор</VTE_ChildOfMountain.degreeDatas.0.label>
+  <VTE_ChildOfMountain.degreeDatas.0.description>Гори кличуть {PAWN_nameDef}. {PAWN_pronoun}  почувається щасливішим, просто перебуваючи поблизу гір.</VTE_ChildOfMountain.degreeDatas.0.description>
+
+  <VTE_MadSurgeon.degreeDatas.0.label>навіжений хірург</VTE_MadSurgeon.degreeDatas.0.label>
+  <VTE_MadSurgeon.degreeDatas.0.description>{PAWN_nameDef} має жахливу таємницю. {PAWN_pronoun}  любить вирізати органи з тіла людей. Час від часу хотітиме нових операцій.</VTE_MadSurgeon.degreeDatas.0.description>
+
+  <VTE_DrunkenMaster.degreeDatas.0.label>п'яний майстер</VTE_DrunkenMaster.degreeDatas.0.label>
+  <VTE_DrunkenMaster.degreeDatas.0.description>{PAWN_nameDef} можливо і є майстром бойових мистецтв, але {0_gender ? його: її} справжня майстерність розкривається лише в стані алкогольного сп'яніння і чим сильніше, тим майстерніше.</VTE_DrunkenMaster.degreeDatas.0.description>
+
+  <VTE_Kleptomaniac.degreeDatas.0.label>клептоманія</VTE_Kleptomaniac.degreeDatas.0.label>
+  <VTE_Kleptomaniac.degreeDatas.0.description>{PAWN_nameDef} має сильне бажання будь-що вкрасти, головне, процес та емоції від нього.</VTE_Kleptomaniac.degreeDatas.0.description>
+
+  <VTE_Stoner.degreeDatas.0.label>кайфарик</VTE_Stoner.degreeDatas.0.label>
+  <VTE_Stoner.degreeDatas.0.description>Для {PAWN_nameDef} розкурити димолист - це життя і все те що після нього йде разом узяте.</VTE_Stoner.degreeDatas.0.description>
+
+  <VTE_Lush.degreeDatas.0.label>п'яниця</VTE_Lush.degreeDatas.0.label>
+  <VTE_Lush.degreeDatas.0.description>Де {PAWN_nameDef} там і наливають! {PAWN_pronoun}  просто обожнює випивку і краще голодним буде, чим тверезим.</VTE_Lush.degreeDatas.0.description>
+
+  <VTE_Wanderlust.degreeDatas.0.label>мандрівництво</VTE_Wanderlust.degreeDatas.0.label>
+  <VTE_Wanderlust.degreeDatas.0.description>{PAWN_nameDef} обожнює подорожувати світом, через що робить це швидше за інших. Матиме поганий настрій, якщо давно не подорожуватиме.</VTE_Wanderlust.degreeDatas.0.description>
+
+  <VTE_Insomniac.degreeDatas.0.label>безсоння</VTE_Insomniac.degreeDatas.0.label>
+  <VTE_Insomniac.degreeDatas.0.description>{PAWN_nameDef} {0_gender ? схожий: схожа} на зомбі, ходить і працює дуже повільно. Спить лише близько разу на три дній.</VTE_Insomniac.degreeDatas.0.description>
+
+  <VTE_WorldWeary.degreeDatas.0.label>втома від світу</VTE_WorldWeary.degreeDatas.0.label>
+  <VTE_WorldWeary.degreeDatas.0.description>{PAWN_nameDef} давно втомив цей світ, і {0_gender ? він: вона}тепер лише проживає день за днем. Інколи думає про те, що краще не побачити наступний день, та врешті-решт знаходить чим себе відволікти.</VTE_WorldWeary.degreeDatas.0.description>
+
+  <VTE_Desensitized.degreeDatas.0.label>байдужість</VTE_Desensitized.degreeDatas.0.label>
+  <VTE_Desensitized.degreeDatas.0.description>{PAWN_nameDef} не відчуває журби за мертвими тваринами, близькими чи будь-ким іншими.</VTE_Desensitized.degreeDatas.0.description>
+
+  <VTE_RefinedPalate.degreeDatas.0.label>вишуканий смак</VTE_RefinedPalate.degreeDatas.0.label>
+  <VTE_RefinedPalate.degreeDatas.0.description>{PAWN_nameDef} нейтрально ставиться звичайної їжі, але буде хвалити і смакувати розкішні страви до останнього шматочка.</VTE_RefinedPalate.degreeDatas.0.description>
+
+  <VTE_Academian.degreeDatas.0.label>академік</VTE_Academian.degreeDatas.0.label>
+  <VTE_Academian.degreeDatas.0.description>Чи то завдяки вивченню стародавніх манускриптів, чи то завдяки довгій практиці, {PAWN_nameDef} напрочуд добре начитаний на різноманітні теми, зокрема, науку та медичну практику.</VTE_Academian.degreeDatas.0.description>
+
+  <VTE_Groundbreaker.degreeDatas.0.label>каменяр</VTE_Groundbreaker.degreeDatas.0.label>
+  <VTE_Groundbreaker.degreeDatas.0.description>{PAWN_nameDef} переконаний, що інфраструктура керує всім, і є хорошим каменярем від природи.</VTE_Groundbreaker.degreeDatas.0.description>
+
+  <VTE_Gastronomist.degreeDatas.0.label>гастроном</VTE_Gastronomist.degreeDatas.0.label>
+  <VTE_Gastronomist.degreeDatas.0.description>В очах {PAWN_nameDef} їжа - це мистецтво, {0_gender ? його: її} кулінарні витвори неймовірно красиві, дивовижні на смак і майже завжди безпечні для здоров'я.</VTE_Gastronomist.degreeDatas.0.description>
+
+  <VTE_Ecologist.degreeDatas.0.label>еколог</VTE_Ecologist.degreeDatas.0.label>
+  <VTE_Ecologist.degreeDatas.0.description>Флора і фауна є важливою частиною {0_gender ? його: її} життя. {PAWN_nameDef} застосовує усе від тварин та росли та високо цінує ці дари матінки-природи.</VTE_Ecologist.degreeDatas.0.description>
+
+  <VTE_Tycoon.degreeDatas.0.label>магнат</VTE_Tycoon.degreeDatas.0.label>
+  <VTE_Tycoon.degreeDatas.0.description>{PAWN_nameDef} має око на срібло, і золотий язик. Завжди знає як можна продати навіть самий останній непотріб.</VTE_Tycoon.degreeDatas.0.description>
+
+  <VTE_ThickSkinned.degreeDatas.0.label>товстошкірість</VTE_ThickSkinned.degreeDatas.0.label>
+  <VTE_ThickSkinned.degreeDatas.0.description>{PAWN_nameDef} кровотеча набагато слабша, навіть серйозні порізи не надто небезпечні.</VTE_ThickSkinned.degreeDatas.0.description>
+
+  <VTE_ThinSkinned.degreeDatas.0.label>тонкошкірість</VTE_ThinSkinned.degreeDatas.0.label>
+  <VTE_ThinSkinned.degreeDatas.0.description>{PAWN_nameDef} кровотеча набагато сильніша, навіть найменші подряпини є небезпечними.</VTE_ThinSkinned.degreeDatas.0.description>
+
+  <VTE_Schizoid.degreeDatas.0.label>шизофренія</VTE_Schizoid.degreeDatas.0.label>
+  <VTE_Schizoid.degreeDatas.0.description>{PAWN_nameDef} має проблеми з самовираженням. З часом це може стати ще важче і важче, після чого настає повний психічний зрив.</VTE_Schizoid.degreeDatas.0.description>
+
+
+</LanguageData>

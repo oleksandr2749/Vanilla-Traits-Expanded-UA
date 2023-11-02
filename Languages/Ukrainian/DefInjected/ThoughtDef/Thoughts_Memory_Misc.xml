@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VTE_CreatedLowQualityItem.stages.0.label>Створено неякісний предмет</VTE_CreatedLowQualityItem.stages.0.label>
+  <VTE_CreatedLowQualityItem.stages.0.description>I crafted junk. I feel like I can't do anything right.</VTE_CreatedLowQualityItem.stages.0.description>
+
+  <VTE_CouldNotFinishItem.stages.0.label>Не вдалося закінчити предмет</VTE_CouldNotFinishItem.stages.0.label>
+  <VTE_CouldNotFinishItem.stages.0.description>I couldn't finish my project, it just wasn't coming along correctly.</VTE_CouldNotFinishItem.stages.0.description>
+
+  <VTE_PassionateCleaningWork.stages.0.label>Жваве прибирання</VTE_PassionateCleaningWork.stages.0.label>
+  <VTE_PassionateCleaningWork.stages.0.description>I actually really enjoy organizing and cleaning up the place.</VTE_PassionateCleaningWork.stages.0.description>
+
+  <VTE_MyRivalsAreAlive.stages.0.label>Мої суперники живі</VTE_MyRivalsAreAlive.stages.0.label>
+  <VTE_MyRivalsAreAlive.stages.0.description>I hate them. Why should they deserve to live?</VTE_MyRivalsAreAlive.stages.0.description>
+
+  <VTE_MechanoidIsKilled.stages.0.label>Механоїд помер</VTE_MechanoidIsKilled.stages.0.label>
+  <VTE_MechanoidIsKilled.stages.0.description>Those evil machines don't deserve to function.</VTE_MechanoidIsKilled.stages.0.description>
+
+  <VTE_ObservedManyBlood.stages.0.label>бачив багато крові.</VTE_ObservedManyBlood.stages.0.label>
+  <VTE_ObservedManyBlood.stages.0.description>I saw so much blood and bits. Just remembering it makes me gag.</VTE_ObservedManyBlood.stages.0.description>
+
+  <VTE_WatchedTelevisor.stages.0.label>Нещодавно дивився телевізор</VTE_WatchedTelevisor.stages.0.label>
+  <VTE_WatchedTelevisor.stages.0.description>I got to laze around and catch up on my shows.</VTE_WatchedTelevisor.stages.0.description>
+
+  <VTE_NoDedicatedLaboratory.stages.0.label>Немає спеціальної лабораторії</VTE_NoDedicatedLaboratory.stages.0.label>
+  <VTE_NoDedicatedLaboratory.stages.0.description>I have nowhere to study in peace, how annoying.</VTE_NoDedicatedLaboratory.stages.0.description>
+
+  <VTE_AnimalsInColony.stages.0.label>В колонії немає тварин</VTE_AnimalsInColony.stages.0.label>
+  <VTE_AnimalsInColony.stages.0.description>У нас немає жодної тварини.</VTE_AnimalsInColony.stages.0.description>
+  <VTE_AnimalsInColony.stages.1.label>В колонії майже немає тварин</VTE_AnimalsInColony.stages.1.label>
+  <VTE_AnimalsInColony.stages.1.description>У нас в колонії майже немає тварин, це відстій.</VTE_AnimalsInColony.stages.1.description>
+  <VTE_AnimalsInColony.stages.2.label>В колонії майже немає тварин</VTE_AnimalsInColony.stages.2.label>
+  <VTE_AnimalsInColony.stages.2.description>У нас в колонії майже немає тварин, я гадаю.</VTE_AnimalsInColony.stages.2.description>
+  <VTE_AnimalsInColony.stages.3.label>В колонії майже немає тварин</VTE_AnimalsInColony.stages.3.label>
+  <VTE_AnimalsInColony.stages.3.description>У нас в колонії майже немає тварин, я гадаю.</VTE_AnimalsInColony.stages.3.description>
+  <VTE_AnimalsInColony.stages.4.label>Кілька тварин в колонії</VTE_AnimalsInColony.stages.4.label>
+  <VTE_AnimalsInColony.stages.4.description>У нас є кілька тварин в колонії, це приємно.</VTE_AnimalsInColony.stages.4.description>
+  <VTE_AnimalsInColony.stages.5.label>Кілька тварин в колонії</VTE_AnimalsInColony.stages.5.label>
+  <VTE_AnimalsInColony.stages.5.description>У нас є кілька тварин в колонії, це приємно.</VTE_AnimalsInColony.stages.5.description>
+  <VTE_AnimalsInColony.stages.6.label>Достатьно тварини в колонії</VTE_AnimalsInColony.stages.6.label>
+  <VTE_AnimalsInColony.stages.6.description>Зараз у нас достатньо тварин, ми стаємо краще.</VTE_AnimalsInColony.stages.6.description>
+  <VTE_AnimalsInColony.stages.7.label>Достатьно тварини в колонії</VTE_AnimalsInColony.stages.7.label>
+  <VTE_AnimalsInColony.stages.7.description>Зараз у нас достатньо тварин, ми стаємо краще.</VTE_AnimalsInColony.stages.7.description>
+  <VTE_AnimalsInColony.stages.8.label>Достатьно тварини в колонії</VTE_AnimalsInColony.stages.8.label>
+  <VTE_AnimalsInColony.stages.8.description>Зараз у нас достатньо тварин, ми стаємо краще.</VTE_AnimalsInColony.stages.8.description>
+  <VTE_AnimalsInColony.stages.9.label>Достатьно тварин в колонії</VTE_AnimalsInColony.stages.9.label>
+  <VTE_AnimalsInColony.stages.9.description>Зараз у нас достатньо тварин, ми стаємо краще.</VTE_AnimalsInColony.stages.9.description>
+  <VTE_AnimalsInColony.stages.10.label>В колонії багато тварин</VTE_AnimalsInColony.stages.10.label>
+  <VTE_AnimalsInColony.stages.10.description>У нас тепер багато тварин! Вони чудові.</VTE_AnimalsInColony.stages.10.description>
+  <VTE_AnimalsInColony.stages.11.label>В колонії багато тварин</VTE_AnimalsInColony.stages.11.label>
+  <VTE_AnimalsInColony.stages.11.description>У нас тепер багато тварин! Вони чудові.</VTE_AnimalsInColony.stages.11.description>
+  <VTE_AnimalsInColony.stages.12.label>Багато тварин в колонії</VTE_AnimalsInColony.stages.12.label>
+  <VTE_AnimalsInColony.stages.12.description>У нас тепер багато тварин! Вони чудові.</VTE_AnimalsInColony.stages.12.description>
+  <VTE_AnimalsInColony.stages.13.label>Багато тварин в колонії</VTE_AnimalsInColony.stages.13.label>
+  <VTE_AnimalsInColony.stages.13.description>У нас тепер так багато тварин! Я {0_gender ? такий щасливий: так щаслива} бачити їх усіх!</VTE_AnimalsInColony.stages.13.description>
+  <VTE_AnimalsInColony.stages.14.label>Багато тварин в колонії</VTE_AnimalsInColony.stages.14.label>
+  <VTE_AnimalsInColony.stages.14.description>У нас тепер так багато тварин! Я {0_gender ? такий щасливий: так щаслива} бачити їх усіх!</VTE_AnimalsInColony.stages.14.description>
+  <VTE_AnimalsInColony.stages.15.label>Багато тварин в колонії</VTE_AnimalsInColony.stages.15.label>
+  <VTE_AnimalsInColony.stages.15.description>У нас тепер так багато тварин! Я {0_gender ? такий щасливий: так щаслива} бачити їх усіх!</VTE_AnimalsInColony.stages.15.description>
+
+  <VTE_ChildOfSea.stages.0.label>Любов до океану</VTE_ChildOfSea.stages.0.label>
+  <VTE_ChildOfSea.stages.0.description>I just love being around the ocean and rivers, water is beautiful.</VTE_ChildOfSea.stages.0.description>
+
+  <VTE_ChildOfMountain.stages.0.label>Любов до гор</VTE_ChildOfMountain.stages.0.label>
+  <VTE_ChildOfMountain.stages.0.description>I just love being around the mountains, they take my breath away.</VTE_ChildOfMountain.stages.0.description>
+
+  <VTE_HaventHarvestedOrgansForLongTime.stages.0.label>Не вирізав органи</VTE_HaventHarvestedOrgansForLongTime.stages.0.label>
+  <VTE_HaventHarvestedOrgansForLongTime.stages.0.description>I'm growing impatient and bored, I need more subjects.</VTE_HaventHarvestedOrgansForLongTime.stages.0.description>
+
+  <VTE_HarvestedOrgans.stages.0.label>Вирізав орган</VTE_HarvestedOrgans.stages.0.label>
+  <VTE_HarvestedOrgans.stages.0.description>The operation went just as expected, my collection has grown.</VTE_HarvestedOrgans.stages.0.description>
+
+  <VTE_HaventExitedColonyForLongTime.stages.0.label>Не покидав межі дому</VTE_HaventExitedColonyForLongTime.stages.0.label>
+  <VTE_HaventExitedColonyForLongTime.stages.0.description>I haven't left home in a while, I'd really like to travel for a change.</VTE_HaventExitedColonyForLongTime.stages.0.description>
+
+  <VTE_SoakingWetChildOfTheSea.stages.0.label>промок</VTE_SoakingWetChildOfTheSea.stages.0.label>
+  <VTE_SoakingWetChildOfTheSea.stages.0.description>I'm soaking wet. Love it.</VTE_SoakingWetChildOfTheSea.stages.0.description>
+
+  <VTE_EnvironmentDark.stages.0.label>темрява</VTE_EnvironmentDark.stages.0.label>
+  <VTE_EnvironmentDark.stages.0.description>I've been in the dark for a while. I like it.</VTE_EnvironmentDark.stages.0.description>
+
+  <VTE_Dunce.stages.0.label>Дурник</VTE_Dunce.stages.0.label>
+  <VTE_Dunce.stages.0.description>I don't really understand why everybody's so upset all the time.</VTE_Dunce.stages.0.description>
+
+
+</LanguageData>
